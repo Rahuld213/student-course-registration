@@ -32,6 +32,7 @@ A terminal-based student course registration and payment system using Bash scrip
 
 ```bash
 chmod +x main.sh
+```bash
 
 ### 2. Run the script
 ./main.sh

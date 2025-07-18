@@ -25,13 +25,13 @@ A terminal-based student course registration and payment system using Bash scrip
 ## 🗂️ File Structure
 
 student-course-registration/
-│
+<│
 ├── main.sh # Entry point for the system
 ├── users.txt # Stores user info (id, username, password, role)
 ├── courses.txt # Stores course info (id, name, price, credit)
 ├── enrollments.txt # Tracks student enrollments (sid, cid)
 ├── payments.txt # Stores payment info (sid, cid, trx_id, status)
-├── README.md # Project documentation
+├── README.md # Project documentation>
 
 ---
 
@@ -41,26 +41,4 @@ student-course-registration/
 
 ```bash
 chmod +x main.sh
-
-./main.sh
-
-🛡️ Role-Based Login
-Admin and student roles are distinguished in the users.txt file.
-
-Format per line: ID,username,password,role
-
-Admin credentials are hardcoded or preloaded.
-
-Students can sign up (admin adds them) and then log in.
-
-🤝 Contributions
-Feel free to fork and submit pull requests. Open to improvements!
-
----
-
-### 🔄 Summary
-
-- If you already have the File Structure section, just **paste the new sections directly below it** in the same file.
-- Don't worry about GitHub Pages, YAML, or other config files unless you're doing CI/CD or deployment — for now, the README is just a Markdown `.md` file meant to document your script.
-
 

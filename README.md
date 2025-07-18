@@ -24,15 +24,6 @@ A terminal-based student course registration and payment system using Bash scrip
 
 ## 🗂️ File Structure
 
-student-course-registration/
-│
-├── main.sh # Entry point for the system
-├── users.txt # Stores user info (id, username, password, role)
-├── courses.txt # Stores course info (id, name, price, credit)
-├── enrollments.txt # Tracks student enrollments (sid, cid)
-├── payments.txt # Stores payment info (sid, cid, trx_id, status)
-├── README.md # Project documentation
-
 ---
 
 ## 🚀 How to Run

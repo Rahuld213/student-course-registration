@@ -22,14 +22,6 @@ A terminal-based student course registration and payment system using Bash scrip
 
 ---
 
-## 🗂️ File Structure
 
----
-
-## 🚀 How to Run
-
-### 1. Make the script executable:
-
-```bash
 chmod +x main.sh
 

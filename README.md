@@ -20,8 +20,4 @@ A terminal-based student course registration and payment system using Bash scrip
 - View all enrollments
 - Verify or reject payments (auto-email simulated)
 
----
-
-
-chmod +x main.sh
 
